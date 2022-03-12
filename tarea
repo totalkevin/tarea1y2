@@ -1,0 +1,5 @@
+int numero1=2;
+arrayprueba = ['a','b','c','d'];
+
+        System.out.println(numero1);
+        System.out.println(var2[0]);
